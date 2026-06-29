@@ -21,10 +21,10 @@ pip install -r requirements.txt
 
 ## کتابخانه‌های مورد استفاده
 
-* psutil
-* customtkinter
-* pillow
-* pyautogui
+customtkinter
+psutil
+arabic-reshaper
+python-bidi
 
 ---
 
